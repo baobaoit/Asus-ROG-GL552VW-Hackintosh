@@ -1,5 +1,11 @@
 # Hackintoshing Catalina on ASUS ROG GL552VW
 
+# Archived
+
+The EFI for Catalina is moved to the OpenCore bootloader: [here](https://github.com/baobaoit/Asus-ROG-GL552VW-OC)
+
+---
+
 See [detailed guide](https://github.com/fidele007/Asus-ROG-GL552VW-Hackintosh/wiki/Install-macOS-Moajve).
 
 ### What works
